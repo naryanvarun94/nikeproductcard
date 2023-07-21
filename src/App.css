@@ -1,0 +1,12 @@
+.purchase-card{
+  width:500px;
+  box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+  text-align:center;
+}
+.purchase-card> .show-grid{
+padding-bottom:1.5em;
+}
+item.details.button:focus{
+  outline:none;
+
+}
